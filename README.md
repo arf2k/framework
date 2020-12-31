@@ -1,24 +1,9 @@
-# README
+A virtual art museum designed to simulate the experience of browsing galleries.
+-      Used Image Mapper in React to create dynamic gallery navigation and to simulate the act of walking 
+       through, curating, and commenting upon one’s own gallery.
+-      Displayed organized artworks and descriptions through the Harvard Art Museum API.
+-      Tailored API results to allow dynamic searching and to plot the mapping structure.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Video Demo:
+<br> [![FrameworkThumbnail](http://img.youtube.com/vi/JKsK0gmrFC0/0.jpg)](http://www.youtube.com/watch?v=JKsK0gmrFC0) </br>
